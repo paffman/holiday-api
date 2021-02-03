@@ -1,0 +1,8 @@
+drop table IF EXISTS HOLIDAYS;
+
+create TABLE HOLIDAYS (
+  id INT AUTO_INCREMENT  PRIMARY KEY,
+  holiday_date VARCHAR(250) NOT NULL,
+  name VARCHAR(250) NOT NULL,
+  is_public INT(1) NOT NULL
+);

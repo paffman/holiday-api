@@ -1,0 +1,2323 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year's Day, which is on January 1, or the first day of the year in the Gregorian Calendar, is a public holiday in Germany.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-01-01",
+          "datetime": {
+            "year": 2021,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany on January 6 is a public holiday in 3 German states  and commemorates the Bible story of  the Magi's visit to baby Jesus.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-01-06",
+          "datetime": {
+            "year": 2021,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "locations": "BW, BY, ST",
+        "states": [
+          {
+            "id": 166,
+            "abbrev": "BW",
+            "name": "Baden-W\u00fcrttemberg",
+            "exception": null,
+            "iso": "de-bw"
+          },
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": null,
+            "iso": "de-by"
+          },
+          {
+            "id": 179,
+            "abbrev": "ST",
+            "name": "Saxony-Anhalt",
+            "exception": null,
+            "iso": "de-st"
+          }
+        ]
+      },
+      {
+        "name": "Franco-German Day",
+        "description": "Franco-German Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-01-22",
+          "datetime": {
+            "year": 2021,
+            "month": 1,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day for the Victims of National Socialism",
+        "description": "Remembrance Day for the Victims of National Socialism is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-01-27",
+          "datetime": {
+            "year": 2021,
+            "month": 1,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "European Privacy Day",
+        "description": "European Privacy Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-01-28",
+          "datetime": {
+            "year": 2021,
+            "month": 1,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Hospice Day",
+        "description": "Children's Hospice Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-02-10",
+          "datetime": {
+            "year": 2021,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "Valentine\u2019s Day is a special time to celebrate love, romance and friendship.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-02-14",
+          "datetime": {
+            "year": 2021,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Shrove Monday",
+        "description": "Carnival Monday is two days before Ash Wednesday and parades are held in many Catholic areas of Germany.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-02-15",
+          "datetime": {
+            "year": 2021,
+            "month": 2,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival \/ Shrove Tuesday",
+        "description": "Shrove Tuesday is a religious holiday that is on the day before Ash Wednesday. It is also known as the Tuesday of Carnival, which is a festive occasion among many cultures.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-02-16",
+          "datetime": {
+            "year": 2021,
+            "month": 2,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival \/ Ash Wednesday",
+        "description": "Ash Wednesday marks the first day of Lent in western Christian churches.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-02-17",
+          "datetime": {
+            "year": 2021,
+            "month": 2,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-03-08",
+          "datetime": {
+            "year": 2021,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All except B",
+        "states": [
+          {
+            "id": 166,
+            "abbrev": "BW",
+            "name": "Baden-W\u00fcrttemberg",
+            "exception": null,
+            "iso": "de-bw"
+          },
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": null,
+            "iso": "de-by"
+          },
+          {
+            "id": 169,
+            "abbrev": "BB",
+            "name": "Brandenburg",
+            "exception": null,
+            "iso": "de-bb"
+          },
+          {
+            "id": 170,
+            "abbrev": "HB",
+            "name": "Bremen",
+            "exception": null,
+            "iso": "de-hb"
+          },
+          {
+            "id": 171,
+            "abbrev": "HH",
+            "name": "Hamburg",
+            "exception": null,
+            "iso": "de-hh"
+          },
+          {
+            "id": 172,
+            "abbrev": "HE",
+            "name": "Hesse",
+            "exception": null,
+            "iso": "de-he"
+          },
+          {
+            "id": 173,
+            "abbrev": "MVP",
+            "name": "Mecklenburg-Western Pomerania",
+            "exception": null,
+            "iso": "de-mv"
+          },
+          {
+            "id": 174,
+            "abbrev": "NDS",
+            "name": "Lower Saxony",
+            "exception": null,
+            "iso": "de-ni"
+          },
+          {
+            "id": 175,
+            "abbrev": "NRW",
+            "name": "North Rhine-Westphalia",
+            "exception": null,
+            "iso": "de-nw"
+          },
+          {
+            "id": 176,
+            "abbrev": "RLP",
+            "name": "Rhineland-Palatinate",
+            "exception": null,
+            "iso": "de-rp"
+          },
+          {
+            "id": 177,
+            "abbrev": "SL",
+            "name": "Saarland",
+            "exception": null,
+            "iso": "de-sl"
+          },
+          {
+            "id": 178,
+            "abbrev": "SN",
+            "name": "Saxony",
+            "exception": null,
+            "iso": "de-sn"
+          },
+          {
+            "id": 179,
+            "abbrev": "ST",
+            "name": "Saxony-Anhalt",
+            "exception": null,
+            "iso": "de-st"
+          },
+          {
+            "id": 180,
+            "abbrev": "SH",
+            "name": "Schleswig-Holstein",
+            "exception": null,
+            "iso": "de-sh"
+          },
+          {
+            "id": 181,
+            "abbrev": "TH",
+            "name": "Thuringia",
+            "exception": null,
+            "iso": "de-th"
+          }
+        ]
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-03-08",
+          "datetime": {
+            "year": 2021,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a common local holiday in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-03-08",
+          "datetime": {
+            "year": 2021,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "locations": "B",
+        "states": [
+          {
+            "id": 168,
+            "abbrev": "B",
+            "name": "Berlin",
+            "exception": null,
+            "iso": "de-be"
+          }
+        ]
+      },
+      {
+        "name": "St. Patrick's Day",
+        "description": "St Patrick\u2019s Day celebrates Irish culture and commemorates one of Ireland\u2019s patron saints, St Patrick, on or around March 17.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-03-17",
+          "datetime": {
+            "year": 2021,
+            "month": 3,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Germany (Berlin)",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-03-20T10:37:30+01:00",
+          "datetime": {
+            "year": 2021,
+            "month": 3,
+            "day": 20,
+            "hour": 10,
+            "minute": 37,
+            "second": 30
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-03-28T02:00:00+01:00",
+          "datetime": {
+            "year": 2021,
+            "month": 3,
+            "day": 28,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change\/Daylight Saving Time"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is a Christian feast that commemorates Jesus Christ\u2019s entry into Jerusalem. It is also the start of Holy Week.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-03-28",
+          "datetime": {
+            "year": 2021,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-04-01",
+          "datetime": {
+            "year": 2021,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Many Christians in Germany observe the Good Friday public holiday to mark the crucifixion of Jesus Christ.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-04-02",
+          "datetime": {
+            "year": 2021,
+            "month": 4,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday is a holiday in Germany to celebrate the Jesus Christ's resurrection, according to the Christian Bible.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-04-04",
+          "datetime": {
+            "year": 2021,
+            "month": 4,
+            "day": 4
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "locations": "BB",
+        "states": [
+          {
+            "id": 169,
+            "abbrev": "BB",
+            "name": "Brandenburg",
+            "exception": null,
+            "iso": "de-bb"
+          }
+        ]
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday is a holiday in Germany to celebrate the Jesus Christ's resurrection, according to the Christian Bible.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-04-04",
+          "datetime": {
+            "year": 2021,
+            "month": 4,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All except BB",
+        "states": [
+          {
+            "id": 166,
+            "abbrev": "BW",
+            "name": "Baden-W\u00fcrttemberg",
+            "exception": null,
+            "iso": "de-bw"
+          },
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": null,
+            "iso": "de-by"
+          },
+          {
+            "id": 168,
+            "abbrev": "B",
+            "name": "Berlin",
+            "exception": null,
+            "iso": "de-be"
+          },
+          {
+            "id": 170,
+            "abbrev": "HB",
+            "name": "Bremen",
+            "exception": null,
+            "iso": "de-hb"
+          },
+          {
+            "id": 171,
+            "abbrev": "HH",
+            "name": "Hamburg",
+            "exception": null,
+            "iso": "de-hh"
+          },
+          {
+            "id": 172,
+            "abbrev": "HE",
+            "name": "Hesse",
+            "exception": null,
+            "iso": "de-he"
+          },
+          {
+            "id": 173,
+            "abbrev": "MVP",
+            "name": "Mecklenburg-Western Pomerania",
+            "exception": null,
+            "iso": "de-mv"
+          },
+          {
+            "id": 174,
+            "abbrev": "NDS",
+            "name": "Lower Saxony",
+            "exception": null,
+            "iso": "de-ni"
+          },
+          {
+            "id": 175,
+            "abbrev": "NRW",
+            "name": "North Rhine-Westphalia",
+            "exception": null,
+            "iso": "de-nw"
+          },
+          {
+            "id": 176,
+            "abbrev": "RLP",
+            "name": "Rhineland-Palatinate",
+            "exception": null,
+            "iso": "de-rp"
+          },
+          {
+            "id": 177,
+            "abbrev": "SL",
+            "name": "Saarland",
+            "exception": null,
+            "iso": "de-sl"
+          },
+          {
+            "id": 178,
+            "abbrev": "SN",
+            "name": "Saxony",
+            "exception": null,
+            "iso": "de-sn"
+          },
+          {
+            "id": 179,
+            "abbrev": "ST",
+            "name": "Saxony-Anhalt",
+            "exception": null,
+            "iso": "de-st"
+          },
+          {
+            "id": 180,
+            "abbrev": "SH",
+            "name": "Schleswig-Holstein",
+            "exception": null,
+            "iso": "de-sh"
+          },
+          {
+            "id": 181,
+            "abbrev": "TH",
+            "name": "Thuringia",
+            "exception": null,
+            "iso": "de-th"
+          }
+        ]
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Many people in Germany annually observe Easter Monday on the day after Easter Sunday. It is a public holiday in all states.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-04-05",
+          "datetime": {
+            "year": 2021,
+            "month": 4,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Girls' Day - Career Information Day",
+        "description": "Girls' Day - Career Information Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-04-22",
+          "datetime": {
+            "year": 2021,
+            "month": 4,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "German Beer Day",
+        "description": "German Beer Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-04-23",
+          "datetime": {
+            "year": 2021,
+            "month": 4,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Walpurgis Night",
+        "description": "Walpurgis Night is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-04-30",
+          "datetime": {
+            "year": 2021,
+            "month": 4,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "May Day in Germany is a holiday to celebrate the start of spring and to campaign for workers' rights. It is always on May 1.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-01",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Europe Day (Council of Europe)",
+        "description": "Europe Day (Council of Europe) is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-05",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of the End of World War II",
+        "description": "",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-08",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother\u2019s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-09",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Europe Day (European Union)",
+        "description": "Europe Day (European Union) is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-09",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father\u2019s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-13",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day in Germany is on a Thursday 39 days after Easter Sunday.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-13",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Pentecost is a Christian holiday to remember the Holy Spirit's descent onto Jesus' followers.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-23",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All except BB",
+        "states": [
+          {
+            "id": 166,
+            "abbrev": "BW",
+            "name": "Baden-W\u00fcrttemberg",
+            "exception": null,
+            "iso": "de-bw"
+          },
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": null,
+            "iso": "de-by"
+          },
+          {
+            "id": 168,
+            "abbrev": "B",
+            "name": "Berlin",
+            "exception": null,
+            "iso": "de-be"
+          },
+          {
+            "id": 170,
+            "abbrev": "HB",
+            "name": "Bremen",
+            "exception": null,
+            "iso": "de-hb"
+          },
+          {
+            "id": 171,
+            "abbrev": "HH",
+            "name": "Hamburg",
+            "exception": null,
+            "iso": "de-hh"
+          },
+          {
+            "id": 172,
+            "abbrev": "HE",
+            "name": "Hesse",
+            "exception": null,
+            "iso": "de-he"
+          },
+          {
+            "id": 173,
+            "abbrev": "MVP",
+            "name": "Mecklenburg-Western Pomerania",
+            "exception": null,
+            "iso": "de-mv"
+          },
+          {
+            "id": 174,
+            "abbrev": "NDS",
+            "name": "Lower Saxony",
+            "exception": null,
+            "iso": "de-ni"
+          },
+          {
+            "id": 175,
+            "abbrev": "NRW",
+            "name": "North Rhine-Westphalia",
+            "exception": null,
+            "iso": "de-nw"
+          },
+          {
+            "id": 176,
+            "abbrev": "RLP",
+            "name": "Rhineland-Palatinate",
+            "exception": null,
+            "iso": "de-rp"
+          },
+          {
+            "id": 177,
+            "abbrev": "SL",
+            "name": "Saarland",
+            "exception": null,
+            "iso": "de-sl"
+          },
+          {
+            "id": 178,
+            "abbrev": "SN",
+            "name": "Saxony",
+            "exception": null,
+            "iso": "de-sn"
+          },
+          {
+            "id": 179,
+            "abbrev": "ST",
+            "name": "Saxony-Anhalt",
+            "exception": null,
+            "iso": "de-st"
+          },
+          {
+            "id": 180,
+            "abbrev": "SH",
+            "name": "Schleswig-Holstein",
+            "exception": null,
+            "iso": "de-sh"
+          },
+          {
+            "id": 181,
+            "abbrev": "TH",
+            "name": "Thuringia",
+            "exception": null,
+            "iso": "de-th"
+          }
+        ]
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Pentecost is a Christian holiday to remember the Holy Spirit's descent onto Jesus' followers.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-23",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "locations": "BB",
+        "states": [
+          {
+            "id": 169,
+            "abbrev": "BB",
+            "name": "Brandenburg",
+            "exception": null,
+            "iso": "de-bb"
+          }
+        ]
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-23",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "The Second Day of Pentecost is, which is on the Monday after Pentecost (or Whitsunday), is a public holiday in Germany.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-05-24",
+          "datetime": {
+            "year": 2021,
+            "month": 5,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Childrens' Day",
+        "description": "International Childrens' Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-06-01",
+          "datetime": {
+            "year": 2021,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "B, BB, MVP, SN, ST, TH",
+        "states": [
+          {
+            "id": 168,
+            "abbrev": "B",
+            "name": "Berlin",
+            "exception": null,
+            "iso": "de-be"
+          },
+          {
+            "id": 169,
+            "abbrev": "BB",
+            "name": "Brandenburg",
+            "exception": null,
+            "iso": "de-bb"
+          },
+          {
+            "id": 173,
+            "abbrev": "MVP",
+            "name": "Mecklenburg-Western Pomerania",
+            "exception": null,
+            "iso": "de-mv"
+          },
+          {
+            "id": 178,
+            "abbrev": "SN",
+            "name": "Saxony",
+            "exception": null,
+            "iso": "de-sn"
+          },
+          {
+            "id": 179,
+            "abbrev": "ST",
+            "name": "Saxony-Anhalt",
+            "exception": null,
+            "iso": "de-st"
+          },
+          {
+            "id": 181,
+            "abbrev": "TH",
+            "name": "Thuringia",
+            "exception": null,
+            "iso": "de-th"
+          }
+        ]
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi celebrates the Eucharist and is public holiday in some parts of Germany.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-06-03",
+          "datetime": {
+            "year": 2021,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "locations": "BW, BY, HE, NRW, RLP, SL, SN (community), TH (community)",
+        "states": [
+          {
+            "id": 166,
+            "abbrev": "BW",
+            "name": "Baden-W\u00fcrttemberg",
+            "exception": null,
+            "iso": "de-bw"
+          },
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": null,
+            "iso": "de-by"
+          },
+          {
+            "id": 172,
+            "abbrev": "HE",
+            "name": "Hesse",
+            "exception": null,
+            "iso": "de-he"
+          },
+          {
+            "id": 175,
+            "abbrev": "NRW",
+            "name": "North Rhine-Westphalia",
+            "exception": null,
+            "iso": "de-nw"
+          },
+          {
+            "id": 176,
+            "abbrev": "RLP",
+            "name": "Rhineland-Palatinate",
+            "exception": null,
+            "iso": "de-rp"
+          },
+          {
+            "id": 177,
+            "abbrev": "SL",
+            "name": "Saarland",
+            "exception": null,
+            "iso": "de-sl"
+          },
+          {
+            "id": 178,
+            "abbrev": "SN",
+            "name": "Saxony",
+            "exception": "community",
+            "iso": "de-sn"
+          },
+          {
+            "id": 181,
+            "abbrev": "TH",
+            "name": "Thuringia",
+            "exception": "community",
+            "iso": "de-th"
+          }
+        ]
+      },
+      {
+        "name": "European Bicycle Day",
+        "description": "European Bicycle Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-06-03",
+          "datetime": {
+            "year": 2021,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Visually Impaired People Day",
+        "description": "Visually Impaired People Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-06-06",
+          "datetime": {
+            "year": 2021,
+            "month": 6,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Car-free Sunday",
+        "description": "Car-free Sunday is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-06-20",
+          "datetime": {
+            "year": 2021,
+            "month": 6,
+            "day": 20
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Germany (Berlin)",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-06-21T05:32:08+02:00",
+          "datetime": {
+            "year": 2021,
+            "month": 6,
+            "day": 21,
+            "hour": 5,
+            "minute": 32,
+            "second": 8
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Architecture Day",
+        "description": "Architecture Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-06-26",
+          "datetime": {
+            "year": 2021,
+            "month": 6,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Peace Festival in Augsburg",
+        "description": "The Augsburg Peace Festival in Germany celebrates the implementation of the Peace of Westphalia in 1648 CE. It is on August 8 each year.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-08-08",
+          "datetime": {
+            "year": 2021,
+            "month": 8,
+            "day": 8
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "locations": "BY (Augsburg)",
+        "states": [
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": "Augsburg",
+            "iso": "de-by"
+          }
+        ]
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Feast of the Assumption of Mary is an occasion for Catholics to honor the belief that God assumed the Virgin Mary to heaven. It is a public holiday in some parts of Germany on August 15 each year.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-08-15",
+          "datetime": {
+            "year": 2021,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "locations": "SL, BY (community)",
+        "states": [
+          {
+            "id": 177,
+            "abbrev": "SL",
+            "name": "Saarland",
+            "exception": null,
+            "iso": "de-sl"
+          },
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": "community",
+            "iso": "de-by"
+          }
+        ]
+      },
+      {
+        "name": "World Peace Day",
+        "description": "World Peace Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-09-01",
+          "datetime": {
+            "year": 2021,
+            "month": 9,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "German Language Day",
+        "description": "German Language Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-09-11",
+          "datetime": {
+            "year": 2021,
+            "month": 9,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "European Heritage Days",
+        "description": "European Heritage Days is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-09-12",
+          "datetime": {
+            "year": 2021,
+            "month": 9,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "German World Children's Day",
+        "description": "German World Children's Day is a common local holiday in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-09-20",
+          "datetime": {
+            "year": 2021,
+            "month": 9,
+            "day": 20
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "locations": "TH",
+        "states": [
+          {
+            "id": 181,
+            "abbrev": "TH",
+            "name": "Thuringia",
+            "exception": null,
+            "iso": "de-th"
+          }
+        ]
+      },
+      {
+        "name": "German World Children's Day",
+        "description": "German World Children's Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-09-20",
+          "datetime": {
+            "year": 2021,
+            "month": 9,
+            "day": 20
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Germany (Berlin)",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-09-22T21:21:10+02:00",
+          "datetime": {
+            "year": 2021,
+            "month": 9,
+            "day": 22,
+            "hour": 21,
+            "minute": 21,
+            "second": 10
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of German Unity",
+        "description": "German Unity Day celebrates Germany's unification in 1990. It is on October 3 each year.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-10-03",
+          "datetime": {
+            "year": 2021,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Harvest Festival",
+        "description": "Harvest Festival is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-10-03",
+          "datetime": {
+            "year": 2021,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Grandparents' Day",
+        "description": "Grandparents' Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-10-10",
+          "datetime": {
+            "year": 2021,
+            "month": 10,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "BY",
+        "states": [
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": null,
+            "iso": "de-by"
+          }
+        ]
+      },
+      {
+        "name": "Day of the Libraries",
+        "description": "Day of the Libraries is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-10-24",
+          "datetime": {
+            "year": 2021,
+            "month": 10,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "World Thrift Day",
+        "description": "World Thrift Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-10-29",
+          "datetime": {
+            "year": 2021,
+            "month": 10,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-10-31T03:00:00+02:00",
+          "datetime": {
+            "year": 2021,
+            "month": 10,
+            "day": 31,
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Clock change\/Daylight Saving Time"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Reformation Day",
+        "description": "Reformation Day in Germany is annually observed on October 31 to remember the Reformation, a time of big religious change between 1517 CE and 1648 CE.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-10-31",
+          "datetime": {
+            "year": 2021,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "locations": "BB, MVP, SN, ST, TH, SH, HH, NDS, HB",
+        "states": [
+          {
+            "id": 169,
+            "abbrev": "BB",
+            "name": "Brandenburg",
+            "exception": null,
+            "iso": "de-bb"
+          },
+          {
+            "id": 173,
+            "abbrev": "MVP",
+            "name": "Mecklenburg-Western Pomerania",
+            "exception": null,
+            "iso": "de-mv"
+          },
+          {
+            "id": 178,
+            "abbrev": "SN",
+            "name": "Saxony",
+            "exception": null,
+            "iso": "de-sn"
+          },
+          {
+            "id": 179,
+            "abbrev": "ST",
+            "name": "Saxony-Anhalt",
+            "exception": null,
+            "iso": "de-st"
+          },
+          {
+            "id": 181,
+            "abbrev": "TH",
+            "name": "Thuringia",
+            "exception": null,
+            "iso": "de-th"
+          },
+          {
+            "id": 180,
+            "abbrev": "SH",
+            "name": "Schleswig-Holstein",
+            "exception": null,
+            "iso": "de-sh"
+          },
+          {
+            "id": 171,
+            "abbrev": "HH",
+            "name": "Hamburg",
+            "exception": null,
+            "iso": "de-hh"
+          },
+          {
+            "id": 174,
+            "abbrev": "NDS",
+            "name": "Lower Saxony",
+            "exception": null,
+            "iso": "de-ni"
+          },
+          {
+            "id": 170,
+            "abbrev": "HB",
+            "name": "Bremen",
+            "exception": null,
+            "iso": "de-hb"
+          }
+        ]
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-10-31",
+          "datetime": {
+            "year": 2021,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "All Saints' Day is an annual public holiday in five German states to remember all Christian saints on November 1.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-11-01",
+          "datetime": {
+            "year": 2021,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "locations": "BW, BY, NRW, RLP, SL",
+        "states": [
+          {
+            "id": 166,
+            "abbrev": "BW",
+            "name": "Baden-W\u00fcrttemberg",
+            "exception": null,
+            "iso": "de-bw"
+          },
+          {
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": null,
+            "iso": "de-by"
+          },
+          {
+            "id": 175,
+            "abbrev": "NRW",
+            "name": "North Rhine-Westphalia",
+            "exception": null,
+            "iso": "de-nw"
+          },
+          {
+            "id": 176,
+            "abbrev": "RLP",
+            "name": "Rhineland-Palatinate",
+            "exception": null,
+            "iso": "de-rp"
+          },
+          {
+            "id": 177,
+            "abbrev": "SL",
+            "name": "Saarland",
+            "exception": null,
+            "iso": "de-sl"
+          }
+        ]
+      },
+      {
+        "name": "Night of Broken Glass Remembrance Day",
+        "description": "Night of Broken Glass Remembrance Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-11-09",
+          "datetime": {
+            "year": 2021,
+            "month": 11,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fall of the Berlin Wall",
+        "description": "Fall of the Berlin Wall is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-11-09",
+          "datetime": {
+            "year": 2021,
+            "month": 11,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Martin's Day",
+        "description": "St. Martin's Day is celebrated in Germany every year on November 11.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-11-11",
+          "datetime": {
+            "year": 2021,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day of Mourning",
+        "description": "On the National Day of Mourning (Volkstrauertag) many Germans commemorate all victims of war and tyranny.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-11-14",
+          "datetime": {
+            "year": 2021,
+            "month": 11,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Repentance Day",
+        "description": "The Day of Prayer and Repentance is a Protestant holiday and a public holiday in the state of Saxony (Sachsen) on the last Wednesday before November 23.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-11-17",
+          "datetime": {
+            "year": 2021,
+            "month": 11,
+            "day": 17
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "locations": "SN",
+        "states": [
+          {
+            "id": 178,
+            "abbrev": "SN",
+            "name": "Saxony",
+            "exception": null,
+            "iso": "de-sn"
+          }
+        ]
+      },
+      {
+        "name": "Sunday of the Dead",
+        "description": "The Sunday of the Dead in Germany is an occasion to remember those who have passed away.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-11-21",
+          "datetime": {
+            "year": 2021,
+            "month": 11,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First Advent Sunday",
+        "description": "The first Sunday of Advent marks the beginning of the Christian year.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-11-28",
+          "datetime": {
+            "year": 2021,
+            "month": 11,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second Advent Sunday",
+        "description": "Second Advent Sunday is a observance and Christian holiday in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-05",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Nicholas Day",
+        "description": "St. Nicholas Day is celebrated on December 6 in many European countries, as well as areas across the world that boast a strong European influence.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-06",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Third Advent Sunday",
+        "description": "Third Advent Sunday is a observance and Christian holiday in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-12",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fourth Advent Sunday",
+        "description": "Fourth Advent Sunday is a observance and Christian holiday in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-19",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day for Roma and Sinti killed by Genocide",
+        "description": "Remembrance Day for Roma and Sinti killed by Genocide is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-19",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Germany (Berlin)",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-21T16:59:17+01:00",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 21,
+            "hour": 16,
+            "minute": 59,
+            "second": 17
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and the start of the Christmas celebration. It always falls on December 24 in Germany.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-24",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Half-day holiday"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day marks the birth of Jesus Christ and is a public holiday in Germany. It is on December 25 each year.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-25",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "The Second Day of Christmas is a public holiday in Germany. It always falls on December 26.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-26",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year's Eve in Germany is annually celebrated on December 31. It is the last day of the year in the Gregorian calendar.",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2021-12-31",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Half-day holiday"
+        ],
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}
